@@ -1,0 +1,24 @@
+
+Code run by **INSERT YOUR NAME HERE**
+Environment variable UWHPSC is /home/guillaume/uwhpsc/
+Environment variable MYHPSC is /home/guillaume/my-uwhpsc/
+
+which ipython returns...
+/usr/bin/ipython
+
+which gfortran returns...
+/usr/bin/gfortran
+
+gfortran --version returns...
+GNU Fortran (Ubuntu 5.2.1-22ubuntu2) 5.2.1 20151010
+Copyright (C) 2015 Free Software Foundation, Inc.
+
+GNU Fortran comes with NO WARRANTY, to the extent permitted by law.
+You may redistribute copies of GNU Fortran
+under the terms of the GNU General Public License.
+For more information about these matters, see the file named COPYING
+
+
+Compiling and running a Fortran code...
+ Code run by  ASSHOLE nb 1
+ Successfully ran Fortran 90 program
